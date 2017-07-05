@@ -1,13 +1,10 @@
 # frozen_string_literal: true
 
 module Fibonacci
-  class Dummy
-
-  end
-
   class Iterative
     class Boo
-
+      class Dummy
+      end
     end
 
     def self.call(n)

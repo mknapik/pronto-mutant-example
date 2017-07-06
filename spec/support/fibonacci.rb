@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 RSpec.shared_examples 'fibonacci' do
   context 'when 0' do
     let(:n) { 0 }
